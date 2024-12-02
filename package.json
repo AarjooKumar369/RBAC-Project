@@ -2,9 +2,6 @@
   "name": "todo-app",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/YNS-JNS/ToDo-List-Pro.git",
-  "author": "yns-jns <younessaitmbarek97@gmail.com>",
-  "license": "MIT",
   "private": true,
   "workspaces": [
     "server",
