@@ -103,15 +103,3 @@ The backend exposes the following API endpoints:
 
 - User authentication is based on JWT (JSON Web Tokens).
 - User roles (e.g., admin, user) are used for RBAC (Role-based Access Control) in API endpoints.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the README.md file according to your project's specific requirements and add more detailed instructions or information as needed.
